@@ -1,0 +1,13 @@
+# runtime data - never publish: real chats, contacts, prompts, screenshots
+state/
+logs/
+shots/
+*.bak-*
+*.bak
+wx-panel.exe.config*
+install.log
+payload.zip
+payload-stage/
+__pycache__/
+Thumbs.db
+desktop.ini
